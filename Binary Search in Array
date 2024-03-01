@@ -23,7 +23,7 @@ public class Java {
    public static void main(String[] args) {
        int number[] = {1,2,3,4,5,6,7,8,9};
        int key = 6;
-       System.out.println(Binarysearch(number,key));
+       System.out.println("The Key is At Index = "+Binarysearch(number,key));
    }
 
 }
